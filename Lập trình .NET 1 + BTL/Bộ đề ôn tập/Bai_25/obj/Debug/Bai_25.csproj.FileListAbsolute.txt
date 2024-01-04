@@ -1,0 +1,9 @@
+C:\Users\n138\Documents\Winform On tap\Bai_25\obj\Debug\Bai_25.csproj.AssemblyReference.cache
+C:\Users\n138\Documents\Winform On tap\Bai_25\obj\Debug\Bai_25.Properties.Resources.resources
+C:\Users\n138\Documents\Winform On tap\Bai_25\obj\Debug\Bai_25.csproj.GenerateResource.cache
+C:\Users\n138\Documents\Winform On tap\Bai_25\obj\Debug\Bai_25.csproj.CoreCompileInputs.cache
+C:\Users\n138\Documents\Winform On tap\Bai_25\bin\Debug\Bai_25.exe.config
+C:\Users\n138\Documents\Winform On tap\Bai_25\bin\Debug\Bai_25.exe
+C:\Users\n138\Documents\Winform On tap\Bai_25\bin\Debug\Bai_25.pdb
+C:\Users\n138\Documents\Winform On tap\Bai_25\obj\Debug\Bai_25.exe
+C:\Users\n138\Documents\Winform On tap\Bai_25\obj\Debug\Bai_25.pdb

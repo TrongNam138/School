@@ -1,0 +1,11 @@
+C:\Users\n138\source\repos\ThuVien\ThuVien\bin\Debug\ThuVien.exe.config
+C:\Users\n138\source\repos\ThuVien\ThuVien\bin\Debug\ThuVien.exe
+C:\Users\n138\source\repos\ThuVien\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\n138\source\repos\ThuVien\ThuVien\obj\Debug\ThuVien.csproj.AssemblyReference.cache
+C:\Users\n138\source\repos\ThuVien\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+C:\Users\n138\source\repos\ThuVien\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+C:\Users\n138\source\repos\ThuVien\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\n138\source\repos\ThuVien\ThuVien\obj\Debug\ThuVien.exe
+C:\Users\n138\source\repos\ThuVien\ThuVien\obj\Debug\ThuVien.pdb
+C:\Users\n138\source\repos\ThuVien\ThuVien\obj\Debug\ThuVien.manage.resources
+C:\Users\n138\source\repos\ThuVien\ThuVien\obj\Debug\ThuVien.Login.resources
